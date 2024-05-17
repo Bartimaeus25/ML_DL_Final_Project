@@ -1,5 +1,5 @@
 # **ML_DL_Final_Project**
-**Group name**
+**Group Name:**
 Fri-151341-35
 
 ## **Home Mortgage Approval Prediction Using Machine Learning Models**
