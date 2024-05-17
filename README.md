@@ -12,7 +12,7 @@ The topic of this study is the prediction of U.S. home mortgage approvals using 
 
 ### **Dataset**
 
-The dataset used for this project is the 2022 Home Mortgage Disclosure Act (HMDA) data, which contains approximately 16.1 million rows and 99 features.** Due to its large size, the dataset is not included directly in this repository. You can download the dataset from the following link**:
+The dataset used for this project is the 2022 Home Mortgage Disclosure Act (HMDA) data, which contains approximately 16.1 million rows and 99 features. **Due to its large size, the dataset is not included directly in this repository. You can download the dataset from the following link**:
 
 Download the 2022 HMDA Dataset:
 https://ffiec.cfpb.gov/data-publication/dynamic-national-loan-level-dataset/2022
