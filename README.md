@@ -10,4 +10,5 @@ This project is part of the Machine Learning and Deep Learning (CDSCO2004E) cour
 
 The dataset used for this project is the 2022 Home Mortgage Disclosure Act (HMDA) data, which contains approximately 16.1 million rows and 99 features. Due to its large size, the dataset is not included directly in this repository. You can download the dataset from the following link:
 
-- **[Download the 2022 HMDA Dataset](https://ffiec.cfpb.gov/data-publication/modified-lar/2022
+**[Download the 2022 HMDA Dataset:
+https://ffiec.cfpb.gov/data-publication/dynamic-national-loan-level-dataset/2022
